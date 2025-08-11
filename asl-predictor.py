@@ -18,7 +18,7 @@ CLASS_NAMES = [
 ]
 
 # Camera & preprocessing
-FLIP_FRAME = True                 # mirror the webcam
+FLIP_FRAME = True               # mirror the webcam
 TARGET_WIDTH = 1280               # ask cam for 1280x720
 TARGET_HEIGHT = 720
 USE_MJPG = True                   # request MJPG for better fps/detail 
