@@ -29,3 +29,4 @@ Follow these steps to set up and run the ASL Recognition project locally:
 	5. Create a .env file to add model path
 	5. Run the Script
 After that, the webcam will be opened and the model will start recognizing ASL letters in real-time.
+![image](https://github.com/user-attachments/assets/3f0b0ee2-0e62-4fb6-8d49-4b136047331f)
